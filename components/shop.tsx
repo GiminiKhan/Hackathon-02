@@ -61,7 +61,7 @@ function ShopPage() {
 
           {/* Sorting */}
           <label className={`${poppins4.className} text-sm text-black`}>
-            Short by
+            Sort by
           </label>
           <select
             className="text-sm border px-2 py-1 rounded-md"

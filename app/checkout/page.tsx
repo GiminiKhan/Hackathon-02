@@ -7,7 +7,7 @@ const Page = () => {
       <div className="relative w-full h-60 bg-cover bg-center" style={{ backgroundImage: 'url("/bg-shop.png")' }}>
         <div className="absolute inset-0 bg-white bg-opacity-50 flex flex-col justify-center items-center">
           <Image src="/logo.png" alt="logo" width={100} height={100} className="h-[77px] w-[77px]"/>
-          <h1 className={` text-3xl text-black`}>Checout</h1>
+          <h1 className={` text-3xl text-black`}>Checkout</h1>
           <p className={` text-sm text-black`}>
             Home &gt; Checkout
           </p>
